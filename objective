@@ -1,0 +1,4 @@
+Step 1: Input a list of key value pairs stored in  two variable [list] from the user where the corresponding indexes represent key value pairs
+Step 2: Create a dictionary with the values in the list where each corresponding with the index values.
+Step 3: While creating the dictionary, check if the key already exists, if it does do not repeat the key and just append the value
+Step 4: Print the dictionary
